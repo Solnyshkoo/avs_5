@@ -1,0 +1,900 @@
+Visitor 1 entered queue. 
+Visitor 1 entered exhibition. Currently 1 visitors. 
+Visitor 1 wants to see picture 2 
+Visitor 1 found a place to see picture 2 
+Visitor 3 entered queue. 
+Visitor 3 entered exhibition. Currently 2 visitors. 
+Visitor 3 wants to see picture 4 
+Visitor 3 found a place to see picture 4 
+Visitor 4 entered queue. 
+Visitor 4 entered exhibition. Currently 3 visitors. 
+Visitor 4 wants to see picture 3 
+Visitor 4 found a place to see picture 3 
+Visitor 2 entered queue. 
+Visitor 2 entered exhibition. Currently 4 visitors. 
+Visitor 2 wants to see picture 3 
+Visitor 2 found a place to see picture 3 
+Visitor 5 entered queue. 
+Visitor 0 entered queue. 
+Visitor 9 entered queue. 
+Visitor 9 entered exhibition. Currently 6 visitors. 
+Visitor 10 entered queue. 
+Visitor 0 entered exhibition. Currently 7 visitors. 
+Visitor 12 entered queue. 
+Visitor 0 wants to see picture 2 
+Visitor 13 entered queue. 
+Visitor 9 wants to see picture 0 
+Visitor 11 entered queue. 
+Visitor 13 entered exhibition. Currently 10 visitors. 
+Visitor 9 found a place to see picture 0 
+Visitor 13 wants to see picture 4 
+Visitor 8 entered queue. 
+Visitor 14 entered queue. 
+Visitor 5 entered exhibition. Currently 5 visitors. 
+Visitor 13 found a place to see picture 4 
+Visitor 15 entered queue. 
+Visitor 10 entered exhibition. Currently 8 visitors. 
+Visitor 10 wants to see picture 3 
+Visitor 12 entered exhibition. Currently 9 visitors. 
+Visitor 10 found a place to see picture 3 
+Visitor 12 wants to see picture 4 
+Visitor 16 entered queue. 
+Visitor 5 wants to see picture 3 
+Visitor 12 found a place to see picture 4 
+Visitor 0 found a place to see picture 2 
+Visitor 5 found a place to see picture 3 
+Visitor 7 entered queue. 
+Visitor 17 entered queue. 
+Visitor 6 entered queue. 
+Visitor 18 entered queue. 
+Visitor 19 entered queue. 
+Visitor 20 entered queue. 
+Visitor 21 entered queue. 
+Visitor 22 entered queue. 
+Visitor 23 entered queue. 
+Visitor 24 entered queue. 
+Visitor 25 entered queue. 
+Visitor 26 entered queue. 
+Visitor 27 entered queue. 
+Visitor 28 entered queue. 
+Visitor 29 entered queue. 
+Visitor 30 entered queue. 
+Visitor 31 entered queue. 
+Visitor 32 entered queue. 
+Visitor 33 entered queue. 
+Visitor 34 entered queue. 
+Visitor 35 entered queue. 
+Visitor 36 entered queue. 
+Visitor 37 entered queue. 
+Visitor 38 entered queue. 
+Visitor 39 entered queue. 
+Visitor 40 entered queue. 
+Visitor 41 entered queue. 
+Visitor 42 entered queue. 
+Visitor 43 entered queue. 
+Visitor 44 entered queue. 
+Visitor 45 entered queue. 
+Visitor 46 entered queue. 
+Visitor 47 entered queue. 
+Visitor 48 entered queue. 
+Visitor 49 entered queue. 
+Visitor 3 left picture 4 
+Visitor 4 left picture 3 
+Visitor 4 wants to see picture 0 
+Visitor 4 found a place to see picture 0 
+Visitor 9 left picture 0 
+Visitor 5 left picture 3 
+Visitor 1 left picture 2 
+Visitor 9 wants to see picture 2 
+Visitor 5 wants to see picture 2 
+Visitor 1 wants to see picture 2 
+Visitor 5 found a place to see picture 2 
+Visitor 3 wants to see picture 0 
+Visitor 9 found a place to see picture 2 
+Visitor 12 left picture 4 
+Visitor 3 found a place to see picture 0 
+Visitor 12 wants to see picture 3 
+Visitor 1 found a place to see picture 2 
+Visitor 12 found a place to see picture 3 
+Visitor 13 left picture 4 
+Visitor 2 left picture 3 
+Visitor 2 wants to see picture 2 
+Visitor 2 found a place to see picture 2 
+Visitor 10 left picture 3 
+Visitor 10 wants to see picture 0 
+Visitor 10 found a place to see picture 0 
+Visitor 0 left picture 2 
+Visitor 0 wants to see picture 2 
+Visitor 0 found a place to see picture 2 
+Visitor 13 wants to see picture 4 
+Visitor 13 found a place to see picture 4 
+Visitor 9 left picture 2 
+Visitor 10 left picture 0 
+Visitor 4 left picture 0 
+Visitor 10 wants to see picture 4 
+Visitor 4 wants to see picture 4 
+Visitor 10 found a place to see picture 4 
+Visitor 4 found a place to see picture 4 
+Visitor 2 left picture 2 
+Visitor 9 wants to see picture 3 
+Visitor 2 wants to see picture 2 
+Visitor 9 found a place to see picture 3 
+Visitor 2 found a place to see picture 2 
+Visitor 13 left picture 4 
+Visitor 13 wants to see picture 0 
+Visitor 13 found a place to see picture 0 
+Visitor 0 left picture 2 
+Visitor 0 wants to see picture 3 
+Visitor 0 found a place to see picture 3 
+Visitor 3 left picture 0 
+Visitor 3 wants to see picture 4 
+Visitor 3 found a place to see picture 4 
+Visitor 1 left picture 2 
+Visitor 1 wants to see picture 3 
+Visitor 1 found a place to see picture 3 
+Visitor 12 left picture 3 
+Visitor 12 wants to see picture 1 
+Visitor 12 found a place to see picture 1 
+Visitor 5 left picture 2 
+Visitor 5 wants to see picture 0 
+Visitor 5 found a place to see picture 0 
+Visitor 10 left picture 4 
+Visitor 10 wants to see picture 2 
+Visitor 10 found a place to see picture 2 
+Visitor 4 left picture 4 
+Visitor 4 wants to see picture 1 
+Visitor 4 found a place to see picture 1 
+Visitor 13 left picture 0 
+Visitor 3 left picture 4 
+Visitor 1 left picture 3 
+Visitor 3 wants to see picture 2 
+Visitor 3 found a place to see picture 2 
+Visitor 9 left picture 3 
+Visitor 9 wants to see picture 3 
+Visitor 9 found a place to see picture 3 
+Visitor 13 wants to see picture 0 
+Visitor 13 found a place to see picture 0 
+Visitor 12 left picture 1 
+Visitor 12 wants to see picture 4 
+Visitor 12 found a place to see picture 4 
+Visitor 2 left picture 2 
+Visitor 1 wants to see picture 2 
+Visitor 1 found a place to see picture 2 
+Visitor 5 left picture 0 
+Visitor 2 wants to see picture 4 
+Visitor 2 found a place to see picture 4 
+Visitor 5 wants to see picture 4 
+Visitor 5 found a place to see picture 4 
+Visitor 0 left picture 3 
+Visitor 0 wants to see picture 1 
+Visitor 0 found a place to see picture 1 
+Visitor 4 left picture 1 
+Visitor 9 left picture 3 
+Visitor 13 left picture 0 
+Visitor 13 wants to see picture 2 
+Visitor 1 left picture 2 
+Visitor 13 found a place to see picture 2 
+Visitor 9 wants to see picture 3 
+Visitor 9 found a place to see picture 3 
+Visitor 0 left picture 1 
+Visitor 2 left picture 4 
+Visitor 0 wants to see picture 0 
+Visitor 0 found a place to see picture 0 
+Visitor 1 wants to see picture 1 
+Visitor 1 found a place to see picture 1 
+Visitor 3 left picture 2 
+Visitor 3 wants to see picture 3 
+Visitor 12 left picture 4 
+Visitor 3 found a place to see picture 3 
+Visitor 5 left picture 4 
+Visitor 5 wants to see picture 1 
+Visitor 5 found a place to see picture 1 
+Visitor 12 wants to see picture 4 
+Visitor 4 wants to see picture 2 
+Visitor 4 found a place to see picture 2 
+Visitor 12 found a place to see picture 4 
+Visitor 10 left picture 2 
+Visitor 10 wants to see picture 2 
+Visitor 10 found a place to see picture 2 
+Visitor 2 wants to see picture 0 
+Visitor 2 found a place to see picture 0 
+Visitor 13 left picture 2 
+Visitor 0 left picture 0 
+Visitor 12 left picture 4 
+Visitor 0 left exhibition
+Visitor 9 left picture 3 
+Visitor 13 left exhibition
+Visitor 10 left picture 2 
+Visitor 10 left exhibition
+Visitor 1 left picture 1 
+Visitor 1 left exhibition
+Visitor 12 left exhibition
+Visitor 3 left picture 3 
+Visitor 3 left exhibition
+Visitor 4 left picture 2 
+Visitor 4 left exhibition
+Visitor 9 left exhibition
+Visitor 2 left picture 0 
+Visitor 2 left exhibition
+Visitor 5 left picture 1 
+Visitor 5 left exhibition
+Visitor 43 entered exhibition. Currently 1 visitors. 
+Visitor 43 wants to see picture 1 
+Visitor 43 found a place to see picture 1 
+Visitor 48 entered exhibition. Currently 2 visitors. 
+Visitor 48 wants to see picture 3 
+Visitor 48 found a place to see picture 3 
+Visitor 31 entered exhibition. Currently 4 visitors. 
+Visitor 31 wants to see picture 3 
+Visitor 23 entered exhibition. Currently 4 visitors. 
+Visitor 24 entered exhibition. Currently 6 visitors. 
+Visitor 33 entered exhibition. Currently 8 visitors. 
+Visitor 23 wants to see picture 4 
+Visitor 33 wants to see picture 3 
+Visitor 23 found a place to see picture 4 
+Visitor 33 found a place to see picture 3 
+Visitor 24 wants to see picture 0 
+Visitor 31 found a place to see picture 3 
+Visitor 24 found a place to see picture 0 
+Visitor 36 entered exhibition. Currently 9 visitors. 
+Visitor 36 wants to see picture 4 
+Visitor 36 found a place to see picture 4 
+Visitor 15 entered exhibition. Currently 6 visitors. 
+Visitor 15 wants to see picture 1 
+Visitor 15 found a place to see picture 1 
+Visitor 7 entered exhibition. Currently 7 visitors. 
+Visitor 7 wants to see picture 0 
+Visitor 7 found a place to see picture 0 
+Visitor 47 entered exhibition. Currently 10 visitors. 
+Visitor 47 wants to see picture 3 
+Visitor 47 found a place to see picture 3 
+Visitor 48 left picture 3 
+Visitor 48 wants to see picture 2 
+Visitor 48 found a place to see picture 2 
+Visitor 43 left picture 1 
+Visitor 43 wants to see picture 1 
+Visitor 43 found a place to see picture 1 
+Visitor 23 left picture 4 
+Visitor 23 wants to see picture 4 
+Visitor 23 found a place to see picture 4 
+Visitor 33 left picture 3 
+Visitor 33 wants to see picture 4 
+Visitor 33 found a place to see picture 4 
+Visitor 24 left picture 0 
+Visitor 24 wants to see picture 1 
+Visitor 24 found a place to see picture 1 
+Visitor 31 left picture 3 
+Visitor 31 wants to see picture 3 
+Visitor 15 left picture 1 
+Visitor 15 wants to see picture 2 
+Visitor 15 found a place to see picture 2 
+Visitor 31 found a place to see picture 3 
+Visitor 36 left picture 4 
+Visitor 47 left picture 3 
+Visitor 47 wants to see picture 3 
+Visitor 47 found a place to see picture 3 
+Visitor 36 wants to see picture 3 
+Visitor 36 found a place to see picture 3 
+Visitor 7 left picture 0 
+Visitor 7 wants to see picture 3 
+Visitor 7 found a place to see picture 3 
+Visitor 48 left picture 2 
+Visitor 48 wants to see picture 3 
+Visitor 48 found a place to see picture 3 
+Visitor 43 left picture 1 
+Visitor 43 wants to see picture 1 
+Visitor 43 found a place to see picture 1 
+Visitor 23 left picture 4 
+Visitor 23 wants to see picture 0 
+Visitor 23 found a place to see picture 0 
+Visitor 33 left picture 4 
+Visitor 33 wants to see picture 3 
+Visitor 33 found a place to see picture 3 
+Visitor 15 left picture 2 
+Visitor 15 wants to see picture 0 
+Visitor 24 left picture 1 
+Visitor 15 found a place to see picture 0 
+Visitor 47 left picture 3 
+Visitor 31 left picture 3 
+Visitor 47 wants to see picture 3 
+Visitor 47 found a place to see picture 3 
+Visitor 31 wants to see picture 1 
+Visitor 36 left picture 3 
+Visitor 31 found a place to see picture 1 
+Visitor 7 left picture 3 
+Visitor 7 wants to see picture 0 
+Visitor 7 found a place to see picture 0 
+Visitor 24 wants to see picture 4 
+Visitor 24 found a place to see picture 4 
+Visitor 36 wants to see picture 4 
+Visitor 36 found a place to see picture 4 
+Visitor 48 left picture 3 
+Visitor 48 wants to see picture 0 
+Visitor 48 found a place to see picture 0 
+Visitor 43 left picture 1 
+Visitor 43 wants to see picture 4 
+Visitor 43 found a place to see picture 4 
+Visitor 33 left picture 3 
+Visitor 15 left picture 0 
+Visitor 24 left picture 4 
+Visitor 23 left picture 0 
+Visitor 23 wants to see picture 2 
+Visitor 24 wants to see picture 0 
+Visitor 33 wants to see picture 4 
+Visitor 33 found a place to see picture 4 
+Visitor 7 left picture 0 
+Visitor 7 wants to see picture 0 
+Visitor 15 wants to see picture 1 
+Visitor 7 found a place to see picture 0 
+Visitor 15 found a place to see picture 1 
+Visitor 36 left picture 4 
+Visitor 36 wants to see picture 4 
+Visitor 36 found a place to see picture 4 
+Visitor 23 found a place to see picture 2 
+Visitor 47 left picture 3 
+Visitor 47 wants to see picture 1 
+Visitor 24 found a place to see picture 0 
+Visitor 47 found a place to see picture 1 
+Visitor 31 left picture 1 
+Visitor 31 wants to see picture 3 
+Visitor 31 found a place to see picture 3 
+Visitor 48 left picture 0 
+Visitor 48 wants to see picture 3 
+Visitor 48 found a place to see picture 3 
+Visitor 43 left picture 4 
+Visitor 43 wants to see picture 3 
+Visitor 43 found a place to see picture 3 
+Visitor 15 left picture 1 
+Visitor 15 wants to see picture 0 
+Visitor 15 found a place to see picture 0 
+Visitor 7 left picture 0 
+Visitor 7 wants to see picture 2 
+Visitor 7 found a place to see picture 2 
+Visitor 36 left picture 4 
+Visitor 47 left picture 1 
+Visitor 36 wants to see picture 2 
+Visitor 47 wants to see picture 1 
+Visitor 31 left picture 3 
+Visitor 31 wants to see picture 1 
+Visitor 31 found a place to see picture 1 
+Visitor 36 found a place to see picture 2 
+Visitor 24 left picture 0 
+Visitor 24 wants to see picture 2 
+Visitor 24 found a place to see picture 2 
+Visitor 47 found a place to see picture 1 
+Visitor 33 left picture 4 
+Visitor 33 wants to see picture 3 
+Visitor 33 found a place to see picture 3 
+Visitor 23 left picture 2 
+Visitor 23 wants to see picture 4 
+Visitor 23 found a place to see picture 4 
+Visitor 48 left picture 3 
+Visitor 15 left picture 0 
+Visitor 43 left picture 3 
+Visitor 15 left exhibition
+Visitor 7 left picture 2 
+Visitor 36 left picture 2 
+Visitor 24 left picture 2 
+Visitor 36 left exhibition
+Visitor 23 left picture 4 
+Visitor 43 left exhibition
+Visitor 23 left exhibition
+Visitor 33 left picture 3 
+Visitor 33 left exhibition
+Visitor 31 left picture 1 
+Visitor 31 left exhibition
+Visitor 7 left exhibition
+Visitor 24 left exhibition
+Visitor 48 left exhibition
+Visitor 47 left picture 1 
+Visitor 47 left exhibition
+Visitor 40 entered exhibition. Currently 1 visitors. 
+Visitor 49 entered exhibition. Currently 5 visitors. 
+Visitor 35 entered exhibition. Currently 6 visitors. 
+Visitor 49 wants to see picture 2 
+Visitor 32 entered exhibition. Currently 7 visitors. 
+Visitor 49 found a place to see picture 2 
+Visitor 29 entered exhibition. Currently 10 visitors. 
+Visitor 32 wants to see picture 3 
+Visitor 11 entered exhibition. Currently 3 visitors. 
+Visitor 28 entered exhibition. Currently 4 visitors. 
+Visitor 32 found a place to see picture 3 
+Visitor 29 wants to see picture 2 
+Visitor 28 wants to see picture 3 
+Visitor 34 entered exhibition. Currently 9 visitors. 
+Visitor 28 found a place to see picture 3 
+Visitor 11 wants to see picture 2 
+Visitor 18 entered exhibition. Currently 8 visitors. 
+Visitor 35 wants to see picture 1 
+Visitor 35 found a place to see picture 1 
+Visitor 40 wants to see picture 1 
+Visitor 40 found a place to see picture 1 
+Visitor 11 found a place to see picture 2 
+Visitor 34 wants to see picture 2 
+Visitor 34 found a place to see picture 2 
+Visitor 29 found a place to see picture 2 
+Visitor 14 entered exhibition. Currently 2 visitors. 
+Visitor 14 wants to see picture 4 
+Visitor 14 found a place to see picture 4 
+Visitor 18 wants to see picture 4 
+Visitor 18 found a place to see picture 4 
+Visitor 32 left picture 3 
+Visitor 32 wants to see picture 4 
+Visitor 32 found a place to see picture 4 
+Visitor 49 left picture 2 
+Visitor 49 wants to see picture 1 
+Visitor 49 found a place to see picture 1 
+Visitor 35 left picture 1 
+Visitor 35 wants to see picture 0 
+Visitor 35 found a place to see picture 0 
+Visitor 11 left picture 2 
+Visitor 11 wants to see picture 0 
+Visitor 11 found a place to see picture 0 
+Visitor 28 left picture 3 
+Visitor 28 wants to see picture 0 
+Visitor 18 left picture 4 
+Visitor 14 left picture 4 
+Visitor 34 left picture 2 
+Visitor 28 found a place to see picture 0 
+Visitor 34 wants to see picture 4 
+Visitor 18 wants to see picture 3 
+Visitor 29 left picture 2 
+Visitor 18 found a place to see picture 3 
+Visitor 29 wants to see picture 3 
+Visitor 29 found a place to see picture 3 
+Visitor 40 left picture 1 
+Visitor 40 wants to see picture 2 
+Visitor 40 found a place to see picture 2 
+Visitor 14 wants to see picture 2 
+Visitor 14 found a place to see picture 2 
+Visitor 34 found a place to see picture 4 
+Visitor 49 left picture 1 
+Visitor 49 wants to see picture 0 
+Visitor 49 found a place to see picture 0 
+Visitor 32 left picture 4 
+Visitor 32 wants to see picture 2 
+Visitor 35 left picture 0 
+Visitor 29 left picture 3 
+Visitor 14 left picture 2 
+Visitor 35 wants to see picture 4 
+Visitor 14 wants to see picture 3 
+Visitor 35 found a place to see picture 4 
+Visitor 28 left picture 0 
+Visitor 28 wants to see picture 0 
+Visitor 28 found a place to see picture 0 
+Visitor 40 left picture 2 
+Visitor 40 wants to see picture 3 
+Visitor 32 found a place to see picture 2 
+Visitor 40 found a place to see picture 3 
+Visitor 29 wants to see picture 3 
+Visitor 29 found a place to see picture 3 
+Visitor 18 left picture 3 
+Visitor 18 wants to see picture 0 
+Visitor 18 found a place to see picture 0 
+Visitor 14 found a place to see picture 3 
+Visitor 11 left picture 0 
+Visitor 11 wants to see picture 1 
+Visitor 11 found a place to see picture 1 
+Visitor 34 left picture 4 
+Visitor 34 wants to see picture 2 
+Visitor 34 found a place to see picture 2 
+Visitor 49 left picture 0 
+Visitor 49 wants to see picture 2 
+Visitor 40 left picture 3 
+Visitor 49 found a place to see picture 2 
+Visitor 14 left picture 3 
+Visitor 34 left picture 2 
+Visitor 34 wants to see picture 2 
+Visitor 35 left picture 4 
+Visitor 14 wants to see picture 2 
+Visitor 34 found a place to see picture 2 
+Visitor 18 left picture 0 
+Visitor 35 wants to see picture 2 
+Visitor 18 wants to see picture 1 
+Visitor 18 found a place to see picture 1 
+Visitor 35 found a place to see picture 2 
+Visitor 28 left picture 0 
+Visitor 28 wants to see picture 0 
+Visitor 11 left picture 1 
+Visitor 28 found a place to see picture 0 
+Visitor 29 left picture 3 
+Visitor 32 left picture 2 
+Visitor 40 wants to see picture 0 
+Visitor 14 found a place to see picture 2 
+Visitor 11 wants to see picture 2 
+Visitor 29 wants to see picture 1 
+Visitor 29 found a place to see picture 1 
+Visitor 11 found a place to see picture 2 
+Visitor 32 wants to see picture 1 
+Visitor 32 found a place to see picture 1 
+Visitor 40 found a place to see picture 0 
+Visitor 49 left picture 2 
+Visitor 49 wants to see picture 0 
+Visitor 49 found a place to see picture 0 
+Visitor 35 left picture 2 
+Visitor 35 wants to see picture 1 
+Visitor 35 found a place to see picture 1 
+Visitor 18 left picture 1 
+Visitor 11 left picture 2 
+Visitor 18 wants to see picture 3 
+Visitor 18 found a place to see picture 3 
+Visitor 11 wants to see picture 2 
+Visitor 11 found a place to see picture 2 
+Visitor 29 left picture 1 
+Visitor 14 left picture 2 
+Visitor 28 left picture 0 
+Visitor 14 wants to see picture 0 
+Visitor 14 found a place to see picture 0 
+Visitor 34 left picture 2 
+Visitor 28 wants to see picture 0 
+Visitor 29 wants to see picture 1 
+Visitor 29 found a place to see picture 1 
+Visitor 28 found a place to see picture 0 
+Visitor 34 wants to see picture 4 
+Visitor 34 found a place to see picture 4 
+Visitor 32 left picture 1 
+Visitor 32 wants to see picture 0 
+Visitor 32 found a place to see picture 0 
+Visitor 40 left picture 0 
+Visitor 40 wants to see picture 1 
+Visitor 40 found a place to see picture 1 
+Visitor 49 left picture 0 
+Visitor 49 left exhibition
+Visitor 35 left picture 1 
+Visitor 29 left picture 1 
+Visitor 34 left picture 4 
+Visitor 35 left exhibition
+Visitor 29 left exhibition
+Visitor 34 left exhibition
+Visitor 18 left picture 3 
+Visitor 18 left exhibition
+Visitor 11 left picture 2 
+Visitor 11 left exhibition
+Visitor 14 left picture 0 
+Visitor 14 left exhibition
+Visitor 28 left picture 0 
+Visitor 28 left exhibition
+Visitor 32 left picture 0 
+Visitor 32 left exhibition
+Visitor 40 left picture 1 
+Visitor 40 left exhibition
+Visitor 37 entered exhibition. Currently 1 visitors. 
+Visitor 37 wants to see picture 2 
+Visitor 37 found a place to see picture 2 
+Visitor 45 entered exhibition. Currently 3 visitors. 
+Visitor 45 wants to see picture 3 
+Visitor 45 found a place to see picture 3 
+Visitor 46 entered exhibition. Currently 5 visitors. 
+Visitor 46 wants to see picture 0 
+Visitor 46 found a place to see picture 0 
+Visitor 25 entered exhibition. Currently 9 visitors. 
+Visitor 25 wants to see picture 4 
+Visitor 25 found a place to see picture 4 
+Visitor 41 entered exhibition. Currently 4 visitors. 
+Visitor 41 wants to see picture 4 
+Visitor 41 found a place to see picture 4 
+Visitor 6 entered exhibition. Currently 6 visitors. 
+Visitor 17 entered exhibition. Currently 2 visitors. 
+Visitor 17 wants to see picture 4 
+Visitor 17 found a place to see picture 4 
+Visitor 8 entered exhibition. Currently 7 visitors. 
+Visitor 8 wants to see picture 0 
+Visitor 44 entered exhibition. Currently 9 visitors. 
+Visitor 44 wants to see picture 0 
+Visitor 44 found a place to see picture 0 
+Visitor 6 wants to see picture 3 
+Visitor 6 found a place to see picture 3 
+Visitor 8 found a place to see picture 0 
+Visitor 19 entered exhibition. Currently 10 visitors. 
+Visitor 19 wants to see picture 1 
+Visitor 19 found a place to see picture 1 
+Visitor 37 left picture 2 
+Visitor 37 wants to see picture 3 
+Visitor 37 found a place to see picture 3 
+Visitor 45 left picture 3 
+Visitor 45 wants to see picture 1 
+Visitor 45 found a place to see picture 1 
+Visitor 25 left picture 4 
+Visitor 25 wants to see picture 3 
+Visitor 25 found a place to see picture 3 
+Visitor 17 left picture 4 
+Visitor 44 left picture 0 
+Visitor 46 left picture 0 
+Visitor 44 wants to see picture 3 
+Visitor 17 wants to see picture 0 
+Visitor 44 found a place to see picture 3 
+Visitor 41 left picture 4 
+Visitor 46 wants to see picture 4 
+Visitor 46 found a place to see picture 4 
+Visitor 6 left picture 3 
+Visitor 8 left picture 0 
+Visitor 6 wants to see picture 4 
+Visitor 17 found a place to see picture 0 
+Visitor 6 found a place to see picture 4 
+Visitor 8 wants to see picture 1 
+Visitor 8 found a place to see picture 1 
+Visitor 41 wants to see picture 0 
+Visitor 41 found a place to see picture 0 
+Visitor 19 left picture 1 
+Visitor 19 wants to see picture 4 
+Visitor 19 found a place to see picture 4 
+Visitor 37 left picture 3 
+Visitor 37 wants to see picture 1 
+Visitor 37 found a place to see picture 1 
+Visitor 45 left picture 1 
+Visitor 17 left picture 0 
+Visitor 45 wants to see picture 4 
+Visitor 17 wants to see picture 4 
+Visitor 6 left picture 4 
+Visitor 17 found a place to see picture 4 
+Visitor 6 wants to see picture 3 
+Visitor 19 left picture 4 
+Visitor 6 found a place to see picture 3 
+Visitor 45 found a place to see picture 4 
+Visitor 19 wants to see picture 3 
+Visitor 8 left picture 1 
+Visitor 46 left picture 4 
+Visitor 46 wants to see picture 0 
+Visitor 46 found a place to see picture 0 
+Visitor 19 found a place to see picture 3 
+Visitor 8 wants to see picture 4 
+Visitor 44 left picture 3 
+Visitor 44 wants to see picture 0 
+Visitor 41 left picture 0 
+Visitor 41 wants to see picture 4 
+Visitor 41 found a place to see picture 4 
+Visitor 25 left picture 3 
+Visitor 25 wants to see picture 3 
+Visitor 25 found a place to see picture 3 
+Visitor 8 found a place to see picture 4 
+Visitor 44 found a place to see picture 0 
+Visitor 37 left picture 1 
+Visitor 37 wants to see picture 2 
+Visitor 37 found a place to see picture 2 
+Visitor 17 left picture 4 
+Visitor 17 wants to see picture 0 
+Visitor 19 left picture 3 
+Visitor 25 left picture 3 
+Visitor 8 left picture 4 
+Visitor 19 wants to see picture 2 
+Visitor 8 wants to see picture 4 
+Visitor 8 found a place to see picture 4 
+Visitor 44 left picture 0 
+Visitor 6 left picture 3 
+Visitor 6 wants to see picture 2 
+Visitor 41 left picture 4 
+Visitor 44 wants to see picture 0 
+Visitor 25 wants to see picture 2 
+Visitor 44 found a place to see picture 0 
+Visitor 25 found a place to see picture 2 
+Visitor 45 left picture 4 
+Visitor 17 found a place to see picture 0 
+Visitor 45 wants to see picture 0 
+Visitor 45 found a place to see picture 0 
+Visitor 41 wants to see picture 1 
+Visitor 6 found a place to see picture 2 
+Visitor 19 found a place to see picture 2 
+Visitor 41 found a place to see picture 1 
+Visitor 46 left picture 0 
+Visitor 46 wants to see picture 3 
+Visitor 46 found a place to see picture 3 
+Visitor 37 left picture 2 
+Visitor 37 wants to see picture 0 
+Visitor 37 found a place to see picture 0 
+Visitor 8 left picture 4 
+Visitor 45 left picture 0 
+Visitor 19 left picture 2 
+Visitor 45 wants to see picture 3 
+Visitor 19 wants to see picture 0 
+Visitor 19 found a place to see picture 0 
+Visitor 41 left picture 1 
+Visitor 46 left picture 3 
+Visitor 25 left picture 2 
+Visitor 25 wants to see picture 4 
+Visitor 25 found a place to see picture 4 
+Visitor 44 left picture 0 
+Visitor 44 wants to see picture 2 
+Visitor 44 found a place to see picture 2 
+Visitor 17 left picture 0 
+Visitor 6 left picture 2 
+Visitor 17 wants to see picture 1 
+Visitor 6 wants to see picture 4 
+Visitor 17 found a place to see picture 1 
+Visitor 41 wants to see picture 0 
+Visitor 41 found a place to see picture 0 
+Visitor 6 found a place to see picture 4 
+Visitor 46 wants to see picture 0 
+Visitor 46 found a place to see picture 0 
+Visitor 45 found a place to see picture 3 
+Visitor 8 wants to see picture 4 
+Visitor 8 found a place to see picture 4 
+Visitor 37 left picture 0 
+Visitor 37 left exhibition
+Visitor 39 entered exhibition. Currently 11 visitors. 
+Visitor 39 wants to see picture 2 
+Visitor 39 found a place to see picture 2 
+Visitor 30 entered exhibition. Currently 11 visitors. 
+Visitor 30 wants to see picture 4 
+Visitor 30 found a place to see picture 4 
+Visitor 25 left picture 4 
+Visitor 25 left exhibition
+Visitor 44 left picture 2 
+Visitor 17 left picture 1 
+Visitor 8 left picture 4 
+Visitor 44 left exhibition
+Visitor 17 left exhibition
+Visitor 46 left picture 0 
+Visitor 46 left exhibition
+Visitor 45 left picture 3 
+Visitor 19 left picture 0 
+Visitor 19 left exhibition
+Visitor 6 left picture 4 
+Visitor 45 left exhibition
+Visitor 6 left exhibition
+Visitor 8 left exhibition
+Visitor 41 left picture 0 
+Visitor 41 left exhibition
+Visitor 26 entered exhibition. Currently 3 visitors. 
+Visitor 26 wants to see picture 0 
+Visitor 26 found a place to see picture 0 
+Visitor 21 entered exhibition. Currently 4 visitors. 
+Visitor 21 wants to see picture 3 
+Visitor 21 found a place to see picture 3 
+Visitor 42 entered exhibition. Currently 5 visitors. 
+Visitor 42 wants to see picture 1 
+Visitor 42 found a place to see picture 1 
+Visitor 20 entered exhibition. Currently 6 visitors. 
+Visitor 20 wants to see picture 2 
+Visitor 20 found a place to see picture 2 
+Visitor 22 entered exhibition. Currently 7 visitors. 
+Visitor 22 wants to see picture 0 
+Visitor 22 found a place to see picture 0 
+Visitor 38 entered exhibition. Currently 8 visitors. 
+Visitor 38 wants to see picture 1 
+Visitor 38 found a place to see picture 1 
+Visitor 27 entered exhibition. Currently 9 visitors. 
+Visitor 27 wants to see picture 3 
+Visitor 27 found a place to see picture 3 
+Visitor 16 entered exhibition. Currently 10 visitors. 
+Visitor 16 wants to see picture 4 
+Visitor 16 found a place to see picture 4 
+Visitor 30 left picture 4 
+Visitor 30 wants to see picture 2 
+Visitor 30 found a place to see picture 2 
+Visitor 39 left picture 2 
+Visitor 39 wants to see picture 3 
+Visitor 39 found a place to see picture 3 
+Visitor 26 left picture 0 
+Visitor 26 wants to see picture 2 
+Visitor 26 found a place to see picture 2 
+Visitor 21 left picture 3 
+Visitor 21 wants to see picture 0 
+Visitor 21 found a place to see picture 0 
+Visitor 42 left picture 1 
+Visitor 42 wants to see picture 0 
+Visitor 42 found a place to see picture 0 
+Visitor 20 left picture 2 
+Visitor 20 wants to see picture 2 
+Visitor 20 found a place to see picture 2 
+Visitor 22 left picture 0 
+Visitor 22 wants to see picture 1 
+Visitor 22 found a place to see picture 1 
+Visitor 38 left picture 1 
+Visitor 38 wants to see picture 3 
+Visitor 16 left picture 4 
+Visitor 16 wants to see picture 2 
+Visitor 16 found a place to see picture 2 
+Visitor 38 found a place to see picture 3 
+Visitor 27 left picture 3 
+Visitor 27 wants to see picture 1 
+Visitor 27 found a place to see picture 1 
+Visitor 30 left picture 2 
+Visitor 30 wants to see picture 0 
+Visitor 30 found a place to see picture 0 
+Visitor 39 left picture 3 
+Visitor 39 wants to see picture 0 
+Visitor 39 found a place to see picture 0 
+Visitor 21 left picture 0 
+Visitor 21 wants to see picture 3 
+Visitor 42 left picture 0 
+Visitor 42 wants to see picture 0 
+Visitor 26 left picture 2 
+Visitor 26 wants to see picture 1 
+Visitor 26 found a place to see picture 1 
+Visitor 42 found a place to see picture 0 
+Visitor 21 found a place to see picture 3 
+Visitor 20 left picture 2 
+Visitor 20 wants to see picture 2 
+Visitor 20 found a place to see picture 2 
+Visitor 22 left picture 1 
+Visitor 22 wants to see picture 4 
+Visitor 22 found a place to see picture 4 
+Visitor 16 left picture 2 
+Visitor 16 wants to see picture 4 
+Visitor 16 found a place to see picture 4 
+Visitor 38 left picture 3 
+Visitor 38 wants to see picture 1 
+Visitor 38 found a place to see picture 1 
+Visitor 27 left picture 1 
+Visitor 27 wants to see picture 1 
+Visitor 27 found a place to see picture 1 
+Visitor 30 left picture 0 
+Visitor 30 wants to see picture 1 
+Visitor 30 found a place to see picture 1 
+Visitor 39 left picture 0 
+Visitor 39 wants to see picture 2 
+Visitor 39 found a place to see picture 2 
+Visitor 42 left picture 0 
+Visitor 42 wants to see picture 0 
+Visitor 42 found a place to see picture 0 
+Visitor 21 left picture 3 
+Visitor 21 wants to see picture 4 
+Visitor 21 found a place to see picture 4 
+Visitor 26 left picture 1 
+Visitor 26 wants to see picture 4 
+Visitor 26 found a place to see picture 4 
+Visitor 20 left picture 2 
+Visitor 20 wants to see picture 0 
+Visitor 20 found a place to see picture 0 
+Visitor 22 left picture 4 
+Visitor 22 wants to see picture 4 
+Visitor 22 found a place to see picture 4 
+Visitor 16 left picture 4 
+Visitor 16 wants to see picture 2 
+Visitor 16 found a place to see picture 2 
+Visitor 38 left picture 1 
+Visitor 38 wants to see picture 0 
+Visitor 38 found a place to see picture 0 
+Visitor 27 left picture 1 
+Visitor 27 wants to see picture 3 
+Visitor 27 found a place to see picture 3 
+Visitor 30 left picture 1 
+Visitor 30 wants to see picture 4 
+Visitor 30 found a place to see picture 4 
+Visitor 39 left picture 2 
+Visitor 39 wants to see picture 0 
+Visitor 39 found a place to see picture 0 
+Visitor 42 left picture 0 
+Visitor 42 wants to see picture 0 
+Visitor 42 found a place to see picture 0 
+Visitor 21 left picture 4 
+Visitor 21 wants to see picture 0 
+Visitor 21 found a place to see picture 0 
+Visitor 26 left picture 4 
+Visitor 26 wants to see picture 1 
+Visitor 26 found a place to see picture 1 
+Visitor 20 left picture 0 
+Visitor 20 wants to see picture 3 
+Visitor 20 found a place to see picture 3 
+Visitor 22 left picture 4 
+Visitor 22 wants to see picture 2 
+Visitor 22 found a place to see picture 2 
+Visitor 16 left picture 2 
+Visitor 16 wants to see picture 1 
+Visitor 16 found a place to see picture 1 
+Visitor 38 left picture 0 
+Visitor 38 wants to see picture 3 
+Visitor 38 found a place to see picture 3 
+Visitor 27 left picture 3 
+Visitor 27 wants to see picture 4 
+Visitor 27 found a place to see picture 4 
+Visitor 30 left picture 4 
+Visitor 30 left exhibition
+Visitor 39 left picture 0 
+Visitor 39 left exhibition
+Visitor 42 left picture 0 
+Visitor 42 left exhibition
+Visitor 26 left picture 1 
+Visitor 26 left exhibition
+Visitor 21 left picture 0 
+Visitor 21 left exhibition
+Visitor 20 left picture 3 
+Visitor 20 left exhibition
+Visitor 22 left picture 2 
+Visitor 22 left exhibition
+Visitor 16 left picture 1 
+Visitor 16 left exhibition
+Visitor 38 left picture 3 
+Visitor 38 left exhibition
+Visitor 27 left picture 4 
+Visitor 27 left exhibition

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/armalko/__main__/proramming/C++/avs05/main.cpp
+cstdint
+-
+thread
+-
+atomic
+-
+vector
+/Users/armalko/__main__/proramming/C++/avs05/vector
+cmath
+-
+iostream
+-
+cstdlib
+-
+algorithm
+-
+chrono
+-
+stdio.h
+-
+

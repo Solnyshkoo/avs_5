@@ -1,0 +1,3 @@
+/Users/armalko/__main__/proramming/C++/avs05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/armalko/__main__/proramming/C++/avs05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/armalko/__main__/proramming/C++/avs05/cmake-build-debug/CMakeFiles/avs05.dir
